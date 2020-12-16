@@ -11,7 +11,7 @@
 
 ### **사용기술**
 
-> Python, Winform, UART, Socket, Raspberry-pi, Arduino
+> Python, Winform, UART, Socket, Raspberry-pi, Arduino 
 
 <br>
 
